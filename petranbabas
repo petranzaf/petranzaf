@@ -1,0 +1,15 @@
+Config.Jobs						  = {} 
+Config.MaxInService               = -1
+Config.Locale                     = 'en'
+Config.UseAnimations			  = true -- Enables/Diasbles animations for fixing vehicle, writing bills and etc. ...
+Config.UseMythic_Progressbar	  = true -- Enables/Diasbles opening Mythic progress bar while doing an animation
+Config.NeedItemCuffs			  = true -- Enables/Diasbles requirement of handcuffs as item
+Config.UseLegacyFuel			  = false -- If true, your vehicle after taking it from garage will have 100% fuel (requires LegacyFuel script)
+Config.ShowImpoundNotification	  = true -- Choose, if you want to play an animation while impounding a vehicle
+Config.ImpoundAnimationWaitTime	  = 10 * 1000 -- Time, how long the animation for impounding a vehicle will be
+Config.EnableLicenses			  = true
+Config.MenuAlign 				  = 'top-right' -- Position of ESX Menu
+Config.CuffItemName				  = 'handcuffs' -- The item name in database you need to have in your inventory to bee able to cuff somebody
+Config.GetClientESXEvent  		  = 'esx:getSharedObject' -- Client get ESX event name
+Config.FontId	
+
